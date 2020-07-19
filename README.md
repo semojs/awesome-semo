@@ -1,4 +1,6 @@
-# awesome-semo
+# Awesome Semo
+
+I know semo is not that awesome yet, it need more work to make it better.
 
 ## Documentation
 * [Official Documentation](https://semo.js.org)
