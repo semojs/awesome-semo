@@ -1,6 +1,6 @@
 # Awesome Semo
 
-I know semo is not that awesome yet, it need more work to make it better.
+I know Semo is not that awesome yet, it is a willing for now, but I hope it is true!
 
 ## Documentation
 * [Official Documentation](https://semo.js.org)
