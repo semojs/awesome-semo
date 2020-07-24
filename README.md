@@ -30,6 +30,7 @@ I know semo is not that awesome yet, it need more work to make it better.
 * [semo-plugin-shell](https://www.npmjs.com/package/semo-plugin-shell)
 * [semo-plugin-ssh](https://www.npmjs.com/package/semo-plugin-ssh)
 * [semo-plugin-api](https://www.npmjs.com/package/semo-plugin-api)
+* [semo-plugin-dingtalk](https://www.npmjs.com/package/semo-plugin-dingtalk)
 
 ### Community plugins
 * Willing it happends
