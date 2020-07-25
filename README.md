@@ -1,6 +1,6 @@
 # Awesome Semo
 
-I know Semo is not that awesome yet, it is a willing for now, but I hope it is true!
+I know Semo is not that awesome yet, it is a willing for now, but I hope it was true!
 
 ## Documentation
 * [Official Documentation](https://semo.js.org)
@@ -40,3 +40,4 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it is t
 * [Semo 系列文章之三：插件 semo-plugin-chalk](https://juejin.im/post/5f0809ba5188252e6c60e935)
 * [Semo系列文章之二：网文收录小工具 semo-plugin-read](https://juejin.im/post/5ee983c5f265da76f30e7245)
 * [准备了两年的 Semo，今天正式跟大家见面](https://juejin.im/post/5ee45c5f51882542fc62643f)
+* [Semo 系列文章之五：谈谈 REPL](https://juejin.im/post/5f1afca4e51d45347500ca3a)
