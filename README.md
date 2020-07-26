@@ -31,6 +31,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
 * [semo-plugin-ssh](https://www.npmjs.com/package/semo-plugin-ssh)
 * [semo-plugin-api](https://www.npmjs.com/package/semo-plugin-api)
 * [semo-plugin-dingtalk](https://www.npmjs.com/package/semo-plugin-dingtalk)
+* [semo-plugin-repl-doc](https://www.npmjs.com/package/semo-plugin-repl-doc)
 
 ### Community plugins
 * Willing it happends
