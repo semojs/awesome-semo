@@ -38,7 +38,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
   * [semo-plugin-repl-npm](https://www.npmjs.com/package/semo-plugin-repl-npm) A REPL command to be able get npm package README on REPL
 
 ### Community plugins
-* Willing it happends
+* Willing it happens
 
 ## Articles
 * [Semo 系列文章之六：一键三联，一起发布3款 Semo REPL 插件](https://juejin.im/post/6856365440177405959)
