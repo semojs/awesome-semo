@@ -41,6 +41,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
 * Willing it happends
 
 ## Articles
+* [Semo 系列文章之六：一键三联，一起发布3款 Semo REPL 插件](https://juejin.im/post/6856365440177405959)
 * [Semo 系列文章之五：谈谈 REPL](https://juejin.im/post/5f1afca4e51d45347500ca3a)
 * [Semo 系列文章之四：插件 semo-plugin-api](https://juejin.im/post/5f13b2a9f265da22da54cebc)
 * [Semo 系列文章之三：插件 semo-plugin-chalk](https://juejin.im/post/5f0809ba5188252e6c60e935)
