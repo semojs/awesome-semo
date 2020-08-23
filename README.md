@@ -37,6 +37,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
   * [semo-plugin-repl-wiki](https://www.npmjs.com/package/semo-plugin-repl-wiki) A REPL command to be able get wikis doc on REPL
   * [semo-plugin-repl-npm](https://www.npmjs.com/package/semo-plugin-repl-npm) A REPL command to be able get npm package README on REPL
   * [semo-plugin-repl-tldr](https://www.npmjs.com/package/semo-plugin-repl-tldr) A REPL command to be able get tldr command help on REPL
+  * [semo-plugin-repl-cheat](https://www.npmjs.com/package/semo-plugin-repl-cheat) A REPL command to be able get cheat sheet command help on REPL
 
 ### Community plugins
 * Willing it happens
