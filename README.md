@@ -42,6 +42,19 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
 ### Community plugins
 * Willing it happens
 
+## Quick start
+
+```bash
+# Install Semo
+npm i -g @semo/cli
+
+# A demo plugin, you can just run it.
+npm run hello-world
+
+# A Semo REPL with some plugins
+semo run --with repl-jsdoc --with repl-wiki --with repl-translate --wth repl-npm --with repl-tldr --with repl-sheet --with repl-hint -- repl
+```
+
 ## Articles
 * [Semo 系列文章之六：一键三联，一起发布3款 Semo REPL 插件](https://juejin.im/post/6856365440177405959)
 * [Semo 系列文章之五：谈谈 REPL](https://juejin.im/post/5f1afca4e51d45347500ca3a)
