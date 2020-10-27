@@ -52,7 +52,7 @@ npm i -g @semo/cli
 npm run hello-world
 
 # A Semo REPL with some plugins
-semo run --with repl-jsdoc --with repl-wiki --with repl-translate --wth repl-npm --with repl-tldr --with repl-sheet --with repl-hint -- repl
+semo run --with repl-jsdoc --with repl-wiki --with repl-translate --with repl-npm --with repl-tldr --with repl-sheet --with repl-hint -- repl
 ```
 
 ## Articles
