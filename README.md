@@ -31,6 +31,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
 * [semo-plugin-ssh](https://www.npmjs.com/package/semo-plugin-ssh) A ssh tool to manage ssh accounts.
 * [semo-plugin-api](https://www.npmjs.com/package/semo-plugin-api) A api tool to send RESTful requests, based on axios.
 * [semo-plugin-dingtalk](https://www.npmjs.com/package/semo-plugin-dingtalk) A Dingtalk tool to send message by using Dingtalk webhook.
+* [semo-plugin-markmap](https://www.npmjs.com/package/semo-plugin-markmap) A Semo plugin to convert markdown to mindmap, based on markmap.
 * Semo REPL related packages
   * [semo-plugin-repl-jsdoc](https://www.npmjs.com/package/semo-plugin-repl-jsdoc) A REPL command to be able get Javascript doc on REPL
   * [semo-plugin-repl-translate](https://www.npmjs.com/package/semo-plugin-repl-translate) A REPL command to be able to translate words on REPL
