@@ -23,6 +23,8 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
   * [semo-plugin-read-extend-format-mobi](https://www.npmjs.com/package/semo-plugin-read-extend-format-mobi) A mobi exportor for semo-plugin-read.
   * [semo-plugin-read-extend-format-puppeteer](https://www.npmjs.com/package/semo-plugin-read-extend-format-puppeteer) A exportor to export pdf, jpeg, png, html formats for semo-plugin-read.
   * [semo-plugin-read-extend-format-wechat](https://www.npmjs.com/package/semo-plugin-read-extend-format-wechat) A wechat mp web markdown editor for semo-plugin-read.
+  * [semo-plugin-read-extend-format-web](https://www.npmjs.com/package/semo-plugin-read-extend-format-web) A plugin of semo-plugin-read, provide markdown web format viewer.
+  * [semo-plugin-read-pack](https://www.npmjs.com/package/semo-plugin-read-pack) A Semo plugin to pack all read related plugins.
 * [semo-plugin-redis](https://www.npmjs.com/package/semo-plugin-redis) A redis tool based on redisio.
 * [semo-plugin-script](https://www.npmjs.com/package/semo-plugin-script) A conversion to manage project scripts.
 * [semo-plugin-sequelize](https://www.npmjs.com/package/semo-plugin-sequelize) A db tool based on sequelize.
@@ -39,6 +41,7 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
   * [semo-plugin-repl-npm](https://www.npmjs.com/package/semo-plugin-repl-npm) A REPL command to be able get npm package README on REPL
   * [semo-plugin-repl-tldr](https://www.npmjs.com/package/semo-plugin-repl-tldr) A REPL command to be able get tldr command help on REPL
   * [semo-plugin-repl-cheat](https://www.npmjs.com/package/semo-plugin-repl-cheat) A REPL command to be able get cheat sheet command help on REPL
+  * [semo-plugin-repl-pack](https://www.npmjs.com/package/semo-plugin-read-pack) A Semo plugin to pack all repl related plugins.
 
 ### Community plugins
 * Willing it happens
