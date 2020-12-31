@@ -42,6 +42,8 @@ I know Semo is not that awesome yet, it is a willing for now, but I hope it was 
   * [semo-plugin-repl-tldr](https://www.npmjs.com/package/semo-plugin-repl-tldr) A REPL command to be able get tldr command help on REPL
   * [semo-plugin-repl-cheat](https://www.npmjs.com/package/semo-plugin-repl-cheat) A REPL command to be able get cheat sheet command help on REPL
   * [semo-plugin-repl-pack](https://www.npmjs.com/package/semo-plugin-read-pack) A Semo plugin to pack all repl related plugins.
+* [semo-plugin-project-templates](https://www.npmjs.com/package/semo-plugin-project-templates) A Semo project template used by `semo create` command
+
 
 ### Community plugins
 * Willing it happens
